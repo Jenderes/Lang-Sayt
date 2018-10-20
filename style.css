@@ -83,3 +83,7 @@ header{
 .menu-btn_active span:after {
   transform: rotate(45deg);
 }
+canvas {
+  margin:0 auto;
+  display: block;
+}
